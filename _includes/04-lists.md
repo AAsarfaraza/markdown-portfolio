@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+1. Books
+2. Pen
+3. Pencil
+4. Eraser
+5. Colours
